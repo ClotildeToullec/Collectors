@@ -1,0 +1,3 @@
+accessing
+addTransformation: aCollectEvaluation
+	transformations add: aCollectEvaluation
